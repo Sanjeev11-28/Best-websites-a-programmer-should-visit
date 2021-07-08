@@ -49,6 +49,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+    
 </ul>
 
 ## When you get stuck
@@ -91,6 +92,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+- [app](https://www.aptitudetips.com) : aptitudetips
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
